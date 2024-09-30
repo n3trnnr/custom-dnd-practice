@@ -1,0 +1,16 @@
+.app-wrapper {
+    padding: 60px;
+    display: flex;
+    gap: 50px;
+}
+
+.board-container {
+    text-align: center;
+}
+
+.board-wrapper {
+    width: 260px;
+    min-height: 160px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
